@@ -1,6 +1,6 @@
-###Big Heading
-##Little Heading
-#Small Heading
+# Big Heading
+## Little Heading
+### Small Heading
 
 - apples
 - oranges
@@ -10,3 +10,4 @@
 2 Python
 
 [Software Carpentry](http://www.software-carpentry.org)
+![adding an image](~/Pictures/caesarsurfing.JPG)
